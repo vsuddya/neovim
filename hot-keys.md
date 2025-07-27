@@ -1,6 +1,6 @@
 # HOT KEYS
 
-1. SPC T H
+1. SPC  t  h
 ```
 select theme
 ```
@@ -24,15 +24,15 @@ copy file
 ```
 paste file
 ```
-7. SPC f f
+7. SPC  f  f
 ```
 search file
 ```
-8. SPC f b
+8. SPC  f  b
 ```
 search opened file
 ```
-9. SPC c h
+9. SPC  c  h
 ```
 hot keys page
 ```
@@ -48,11 +48,23 @@ vertical split
 ```
 horizontal split
 ```
-13. SPC h
+13. SPC  h
 ```
 horizontal terminal window
 ```
-14. SPC v
+14. SPC  v
 ```
 vertical terminal window
+```
+15. SPC  x
+```
+close window
+```
+16. SPC / 
+```
+comment code
+```
+17. SPC  f  m
+```
+format code
 ```
